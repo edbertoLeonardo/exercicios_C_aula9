@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // -----------------------------
-    // Exercício 1: Valores de trás para frente
-    // -----------------------------
+
     int vetor1[] = {1, 2, 3, 4, 5};
     int tamanho1 = 5;
 
@@ -13,9 +11,7 @@ int main() {
     }
     printf("\n\n");
 
-    // -----------------------------
-    // Exercício 2: Números acima de 5 e letras alternadas
-    // -----------------------------
+
     int vetor2[] = {2, 8, 5, 10, 3, 7};
     int tamanho2 = 6;
 
@@ -34,9 +30,7 @@ int main() {
     }
     printf("\n\n");
 
-    // -----------------------------
-    // Exercício 3: Idades ímpares
-    // -----------------------------
+
     int idades[] = {21, 34, 45, 50, 67, 18};
     int tamanho3 = 6;
 
